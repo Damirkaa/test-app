@@ -1,0 +1,10 @@
+.company-item{
+    max-width: 500px;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 5px 0;
+}
+
+.company-item__button{
+    margin-left: 40px;
+}
